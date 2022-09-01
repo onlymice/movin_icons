@@ -1,0 +1,16 @@
+
+/* XML */
+<palette>
+  <color name="Black" hex="#000000" r="0" g="0" b="0">#000000</color>
+  <color name="White" hex="#ffffff" r="255" g="255" b="255">#ffffff</color>
+  <color name="Cultured" hex="#f2f2f2" r="242" g="242" b="242">#f2f2f2</color>
+  <color name="Naples Yellow" hex="#fadc55" r="250" g="220" b="85">#fadc55</color>
+  <color name="Spanish Gray" hex="#999ca0" r="153" g="156" b="160">#999ca0</color>
+  <color name="Bittersweet" hex="#ff6358" r="255" g="99" b="88">#ff6358</color>
+  <color name="Ocean Blue" hex="#4e46b4" r="78" g="70" b="180">#4e46b4</color>
+  <color name="Capri" hex="#2cbdfb" r="44" g="189" b="251">#2cbdfb</color>
+  <color name="Davys Grey" hex="#505050" r="80" g="80" b="80">#505050</color>
+  <color name="Yellow Orange" hex="#ffb84e" r="255" g="184" b="78">#ffb84e</color>
+  <color name="Dark Blue Gray" hex="#5e5e95" r="94" g="94" b="149">#5e5e95</color>
+  <color name="Silver" hex="#c4c4c4" r="196" g="196" b="196">#c4c4c4</color>
+</palette>
